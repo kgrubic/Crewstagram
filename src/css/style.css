@@ -1,0 +1,76 @@
+.crew-headline{
+	font-family: Helvetica, sans-serif;
+	font-weight: lighter;
+	color: #ff3333;
+	text-align: center;
+}
+.div-galery{
+	margin: auto;
+}
+img.images{
+	margin: 0 auto;
+	display: block;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	height: auto;
+	max-width: 100%;
+}
+.image-one{
+	margin:0 auto;
+	display: block;
+	width: 500px;
+	height: auto;
+	max-width: 100%;
+}
+.back-button{
+	position: absolute;
+	top: 50px;
+	right: 50px;
+	background-color: #ff3333;
+	color: white;
+	border: none;
+	border-radius: 8px;
+	cursor: pointer;
+}
+.comments{
+	max-width: 500px;
+	margin: 0 auto;
+	position: relative;
+}
+div.username{
+	background-color: #ffe6e6;
+	position: relative;
+	margin-top: 10px;
+	border-radius: 5px;
+	color: #ff3333;
+	font-size: 15px;
+}
+div.comment{
+	color: black;
+	font-size: 18px;
+}
+div.favorites{
+	margin: 0 auto;
+	max-width: 500px;
+	position: relative;
+}
+.like-count{
+  margin-left: 0.5em;
+  margin-top: 0.5em;
+  background-color: #ffe6e6;
+  width: 20px;
+  text-align: center;
+  font-size: 15px;
+  border-radius: 50%;
+  float: right;
+}
+.like-text{
+	margin-top: 0.5em;
+	float: right;
+	width: 20px;
+	font-size: 15px;
+	color: #ff3333;
+	font-weight: lighter;
+	cursor: pointer;
+}
+
